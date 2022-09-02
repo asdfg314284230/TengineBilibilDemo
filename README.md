@@ -78,6 +78,6 @@ TEngine
 ---
 
 ## <strong>优质开源项目推荐
-#### <a href="https://github.com/ALEXTANGXIAO/TEngine"><strong>JEngine</strong></a> - 使Unity开发的游戏支持热更新的解决方案。
+#### <a href="https://github.com/ALEXTANGXIAO/TEngine"><strong>Tengine</strong></a> - 本项目基于此框架开发的。
 
 #### <a href="https://github.com/focus-creative-games/hybridclr"><strong>HybridCLR</strong></a> - 特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更方案
