@@ -1,4 +1,4 @@
-# TEngine
+# BilibiliLiveDemo
 <p align="center">
     <img src="http://1.12.241.46:8081/temp/TEngine512.png" alt="logo" width="384" height="384">
 </p>
@@ -66,8 +66,8 @@ TEngine
  QQ群：967860570   
  欢迎大家提供意见和改进意见，不喜请友善提意见哈 谢谢~   
  如果您觉得感兴趣想期待关注一下或者有眼前一亮的模块，不妨给个Star~
-
  作者:无名
+
 ---
 
 ## <strong>优质开源项目推荐
